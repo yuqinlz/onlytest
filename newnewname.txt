@@ -1,3 +1,6 @@
 ---some operate---
    [lz] 111
    [lz] 222
+
+---test for master push---
+   [lz] 333
