@@ -7,3 +7,6 @@
 
 ---test for pull request to upstream master---
    [yuqin] 111
+
+---test for protection---
+   [lz] 444
