@@ -10,3 +10,6 @@
 
 ---test for protection---
    [lz] 444
+
+---test for protection second time---
+   [lz] 555
