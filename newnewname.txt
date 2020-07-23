@@ -11,3 +11,6 @@
 
 ---test for upstream fetch---
    [lz] 444
+
+---test for push to upstream directly---
+   [yuqin] 333
