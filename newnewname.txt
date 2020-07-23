@@ -4,6 +4,3 @@
 
 ---test for master push---
    [lz] 333
-
----test for pull request to upstream master---
-   [yuqin] 111
