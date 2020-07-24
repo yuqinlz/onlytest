@@ -18,4 +18,7 @@
    [lz] 666
 
 ---test protection include administrators---
-   [lz] 777
+   [lz] failed
+
+---test protection by rebase---
+   [lz] 888
