@@ -21,4 +21,4 @@
    [lz] failed
 
 ---test protection by rebase---
-   [lz] 888
+   [lz] 999
