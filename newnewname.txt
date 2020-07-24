@@ -23,3 +23,6 @@
 
 ---continue to push to upstream dev---
    [yuqin] 666
+
+---test for conflict---
+   [lz] 555
