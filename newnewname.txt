@@ -11,3 +11,12 @@
 
 ---test for upstream fetch---
    [lz] 444
+
+---test for pushing to upstream directly---
+   [yuqin] 333
+
+---test for pushing to upstream dev---
+   [yuqin] 444
+
+---test for more commit to push to upstream dev---
+   [yuqin] 555
