@@ -15,4 +15,7 @@
    [lz] 555
 
 ---test for protection by pushing directly from local master
-   [lz]666
+   [lz] 666
+
+---test protection include administrators---
+   [lz] 777
