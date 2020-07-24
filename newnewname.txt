@@ -22,3 +22,6 @@
 
 ---test protection by rebase---
    [lz] 999
+
+---contributor push to upstream master---
+   [yuqin] 222
