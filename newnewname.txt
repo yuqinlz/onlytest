@@ -28,3 +28,6 @@
 
 ---test for closing issue---
    [lz] 101010
+
+---test for closing another issue---
+   [lz] 111111
