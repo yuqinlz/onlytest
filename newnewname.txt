@@ -25,3 +25,6 @@
 
 ---contributor push to upstream master---
    [yuqin] 222
+
+---test for closing issue---
+   [lz] 101010
