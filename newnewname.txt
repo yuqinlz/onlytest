@@ -26,3 +26,6 @@
 
 ---test for conflict---
    [lz] 555
+
+---test for commiting to dev---
+   [lz] 666
