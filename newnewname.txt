@@ -59,3 +59,6 @@
 
 ---test for closing another issue---
    [lz] 111111
+
+---test for closing another issue by local merging---
+   [lz] 121212
