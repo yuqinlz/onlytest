@@ -29,3 +29,42 @@
 
 ---test for commiting to dev---
    [lz] 666
+
+---test for closing issue---
+   [lz] 666
+
+---test for master push---
+   [lz] 333
+
+---test for pull request to upstream master---
+   [yuqin] 111
+
+---test for protection---
+   [lz] 444
+
+---test for protection second time---
+   [lz] 555
+
+---test for protection by pushing directly from local master
+   [lz] 666
+
+---test protection include administrators---
+   [lz] failed
+
+---test protection by rebase---
+   [lz] 999
+
+---contributor push to upstream master---
+   [yuqin] 222
+
+---test for closing issue---
+   [lz] 101010
+
+---test for closing another issue---
+   [lz] 111111
+
+---test for closing another issue by local merging---
+   [lz] 121212
+
+---test for closing 27 issue by local merging with milestone---
+   [lz] 131313
