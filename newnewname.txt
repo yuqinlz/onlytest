@@ -62,3 +62,6 @@
 
 ---test for closing another issue by local merging---
    [lz] 121212
+
+---test for closing 27 issue by local merging with milestone---
+   [lz] 131313
