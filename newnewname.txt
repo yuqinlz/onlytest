@@ -1,6 +1,34 @@
 ---some operate---
    [lz] 111
    [lz] 222
+   [lz - yuqin] 222
+
+---by yuqin---
+   [yuqin] 111
+
+---dev second change---
+   [lz] 333
+
+---test for upstream fetch---
+   [lz] 444
+
+---test for pushing to upstream directly---
+   [yuqin] 333
+
+---test for pushing to upstream dev---
+   [yuqin] 444
+
+---test for more commit to push to upstream dev---
+   [yuqin] 555
+
+---continue to push to upstream dev---
+   [yuqin] 666
+
+---test for conflict---
+   [lz] 555
+
+---test for closing issue---
+   [lz] 666
 
 ---test for master push---
    [lz] 333
