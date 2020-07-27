@@ -30,6 +30,9 @@
 ---test for commiting to dev---
    [lz] 666
 
+---test for project---
+   [lz] 777
+
 ---test for closing issue---
    [lz] 666
 
