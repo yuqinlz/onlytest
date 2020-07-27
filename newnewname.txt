@@ -68,3 +68,6 @@
 
 ---test for closing 27 issue by local merging with milestone---
    [lz] 131313
+
+---test for project---
+   [lz] 141414
