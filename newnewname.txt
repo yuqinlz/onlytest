@@ -29,3 +29,6 @@
 
 ---test for commiting to dev---
    [lz] 666
+
+---test for project---
+   [lz] 777
